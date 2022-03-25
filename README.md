@@ -1,6 +1,6 @@
 ### Hi there 👋
 ##hquwigdiqwbjdkh
-<img src =" images.jpg">
+<img src ="images.jpg">
 
 <!--
 **Ayush521-c/Ayush521-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
